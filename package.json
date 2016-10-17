@@ -7,8 +7,7 @@
 "dependencies":{
   "express":"*",
   "mongodb":"*",
-  "assert":"*",
-   "body-parser":"*"
+  "assert":"*"
 }
 
 
