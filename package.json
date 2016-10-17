@@ -1,0 +1,14 @@
+{
+"name":"FirstTry",
+"version": "0.0.1",
+"description":"First Try",
+"author": "Nihar Malali",
+"index":"app.js",
+"dependencies":{
+  "express":"*",
+  "mongodb":"*",
+  "assert":"*"
+}
+
+
+}
